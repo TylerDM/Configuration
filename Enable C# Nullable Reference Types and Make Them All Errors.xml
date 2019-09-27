@@ -1,5 +1,6 @@
 <!-- Add these to the <PropertyGroup> containing <LangVersion>. -->
-<Nullable>enable</Nullable>		<WarningsAsErrors>
+<Nullable>enable</Nullable>
+<WarningsAsErrors>
 	CS8600;
 	CS8602;
 	CS8603;
