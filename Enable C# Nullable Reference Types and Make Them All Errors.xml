@@ -13,4 +13,5 @@
 	CS8629;<!-- Nullable value type may be null. -->
 	CS8653;<!-- A default expression introduces a null value for a type parameter when T is a class. -->
 	CS8613;<!-- Nullability of reference types in return type doesn't match implicitly implemented member. -->
+	CS8605;<!-- Unboxing a possibly null value. -->
 </WarningsAsErrors>
