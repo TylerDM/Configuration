@@ -8,5 +8,5 @@
 	CS8619;
 	CS8618;
 	CS8601;
-	AD0001;<!--- Nullable reference types may be null. --->
+	AD0001;<!-- Nullable reference types may be null. -->
 </WarningsAsErrors>
