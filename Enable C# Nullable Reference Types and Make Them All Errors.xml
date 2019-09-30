@@ -15,4 +15,5 @@
 	CS8613;<!-- Nullability of reference types in return type doesn't match implicitly implemented member. -->
 	CS8605;<!-- Unboxing a possibly null value. -->
 	CS8714;<!-- The type cannot be used as type parameter in the generic type or method. Nullability of type argument doesn't match 'notnull' constraint. -->
+	CS8609;<!-- Nullability of reference types in return type doesn't match overridden member. -->
 </WarningsAsErrors>
