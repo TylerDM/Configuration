@@ -14,4 +14,5 @@
 	CS8653;<!-- A default expression introduces a null value for a type parameter when T is a class. -->
 	CS8613;<!-- Nullability of reference types in return type doesn't match implicitly implemented member. -->
 	CS8605;<!-- Unboxing a possibly null value. -->
+	CS8714;<!-- The type cannot be used as type parameter in the generic type or method. Nullability of type argument doesn't match 'notnull' constraint. -->
 </WarningsAsErrors>
