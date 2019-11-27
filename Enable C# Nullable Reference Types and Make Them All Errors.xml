@@ -18,4 +18,5 @@
 	CS8609;<!-- Nullability of reference types in return type doesn't match overridden member. -->
 	CS8605;<!-- Unboxing a possibly null value. -->
 	CS8597;<!-- Thrown value may be null. -->
+	CS8610;<!-- Nullability of reference types in type of parameter doesn't match overridden member. -->
 </WarningsAsErrors>
