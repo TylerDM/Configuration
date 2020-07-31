@@ -1,4 +1,4 @@
-<!-- Add these to the <PropertyGroup> containing <LangVersion>. -->
+<!-- I prefer to add these to the <PropertyGroup> containing <LangVersion>.  But obviously it can go anywhere you like. -->
 <Nullable>enable</Nullable>
 <WarningsAsErrors>
 	CS8600;
